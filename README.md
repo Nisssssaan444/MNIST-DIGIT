@@ -1,1 +1,1 @@
-# my-repo hey how are you
+# MNIST DIGIT RECOGNIZATION
